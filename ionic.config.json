@@ -1,0 +1,7 @@
+{
+  "name": "Finanzas_Movil",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
